@@ -1,0 +1,28 @@
+name: Favourites
+favicon: null
+layout_spectrum: 0.5085999502334744
+typography_spectrum: 0.16461476031690836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.09098586905747652
+  lightness: 0.2866912819445133
+  saturation: 0.9038156745955348
+  rhythmicContrast: 0.7478151498362422
+purpose: []
